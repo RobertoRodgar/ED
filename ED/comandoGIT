@@ -12,3 +12,6 @@ git init
 git config
 git remote
 git log
+
+No hay comandos para introducir en GitHub
+

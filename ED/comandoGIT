@@ -12,4 +12,3 @@ git init
 git config
 git remote
 git log
-
